@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/golder/static/css/main.5f527649.css",
+    "main.js": "/golder/static/js/main.ed576cba.js",
+    "index.html": "/golder/index.html",
+    "main.5f527649.css.map": "/golder/static/css/main.5f527649.css.map",
+    "main.ed576cba.js.map": "/golder/static/js/main.ed576cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f527649.css",
+    "static/js/main.ed576cba.js"
+  ]
+}
