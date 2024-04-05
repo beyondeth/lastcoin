@@ -1,0 +1,2 @@
+# lastcoin
+cointest
