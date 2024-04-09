@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lastcoin/static/css/main.5f527649.css",
-    "main.js": "/lastcoin/static/js/main.b3ff5a0f.js",
+    "main.js": "/lastcoin/static/js/main.a07a9578.js",
     "index.html": "/lastcoin/index.html",
     "main.5f527649.css.map": "/lastcoin/static/css/main.5f527649.css.map",
-    "main.b3ff5a0f.js.map": "/lastcoin/static/js/main.b3ff5a0f.js.map"
+    "main.a07a9578.js.map": "/lastcoin/static/js/main.a07a9578.js.map"
   },
   "entrypoints": [
     "static/css/main.5f527649.css",
-    "static/js/main.b3ff5a0f.js"
+    "static/js/main.a07a9578.js"
   ]
 }
